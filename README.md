@@ -3,6 +3,7 @@
 A tiny Arduino project to control the lighting of a space shuttle model
 
 A `shuttle-illumination` project implements a time-limited illumination of a Shuttle Atlantis plastic model
+
 The hardware consists of:
    - 6F22 (a.k.a Krona) 9v battery;
    - Arduino Pro Mini 3v3 (with the voltage regulator and the power LED removed);
